@@ -107,7 +107,7 @@ const Navbar: React.FC = () => {
           >
           <img
             src="Colour_removebg.png"
-            alt="Sequoia Logo"
+            //alt="Sequoia Logo"
             className="w-8 h-8 object-contain"
           />
           <span className="text-2xl font-bold tracking-tighter">
