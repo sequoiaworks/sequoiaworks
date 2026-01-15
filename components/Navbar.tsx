@@ -106,7 +106,7 @@ const Navbar: React.FC = () => {
             className="cursor-pointer flex items-center gap-2 z-[110]"
           >
           <img
-            src="Colour logo.pngg"
+            src="/Colour logo.pngg"
             alt="Sequoia Logo"
             className="w-8 h-8 object-contain"
           />
