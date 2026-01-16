@@ -13,14 +13,14 @@ const testimonials = [
       "Their attention to detail and design thinking is next level. Our conversions improved within weeks.",
   },
   {
-    name: "KEERTHIVASAN",
-    role: "Event Chairperson",
+    name: "HARI",
+    role: "",
     quote:
       "Beautiful UI, clean code, and extremely smooth delivery.",
   },
   {
-    name: "PRIYADHARSHINI",
-    role: "Event Secretary",
+    name: "DEENADAYALAN",
+    role: "",
     quote:
       "A rare combination of creativity and technical excellence.",
   },
